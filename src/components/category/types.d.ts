@@ -1,0 +1,3 @@
+interface CategoryProps {
+    category:   Category,
+}
